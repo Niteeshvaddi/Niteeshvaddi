@@ -17,8 +17,8 @@ Full Stack Developer | Java | Laravel | React | JavaScript
 - 🌱 Currently learning **JavaScript, React, Laravel**
 - 🚀 Building Real World Projects
 - 💡 Passionate about Problem Solving
-- 📚 Learning DSA & System Design
-- 📫 Reach me at **your-email@gmail.com**
+- 📚 Learning 
+- 📫 Reach me at niteeshvaddi333@gmail.com
 
 ---
 
